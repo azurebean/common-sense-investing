@@ -1,5 +1,6 @@
 
 # Common Sense Investing
+A collection of videos from [Ben Felix's Youtube channel](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA) discussing basic investing knowledge, index fund and house investment.
 
 ## Basic Knowledge
 
