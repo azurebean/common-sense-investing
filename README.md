@@ -6,6 +6,7 @@ A collection of videos from [Ben Felix's Youtube channel](https://www.youtube.co
 
 - Is Now the best time to invest? [https://www.youtube.com/watch?v=X1qzuPRvsM0](https://www.youtube.com/watch?v=X1qzuPRvsM0)
 - Does Market Timing Ever Work? - [https://www.youtube.com/watch?v=w_aOERmUWdA](https://www.youtube.com/watch?v=w_aOERmUWdA)
+- Is Investing Risky? - [https://www.youtube.com/watch?v=thNrIsU88y8](https://www.youtube.com/watch?v=thNrIsU88y8)
 - Picking Stocks - [https://www.youtube.com/watch?v=AecvTErBQY8](https://www.youtube.com/watch?v=AecvTErBQY8&t=5s)
 - What are normal stock returns? - [https://www.youtube.com/watch?v=WhYHrHiOS_E](https://www.youtube.com/watch?v=WhYHrHiOS_E)
 - Why you should ignore market experts - [https://www.youtube.com/watch?v=FTJtmaMjWWg](https://www.youtube.com/watch?v=FTJtmaMjWWg)
@@ -13,6 +14,7 @@ A collection of videos from [Ben Felix's Youtube channel](https://www.youtube.co
 - Bear Market / Market Crash - Is this time different?
     - [https://www.youtube.com/watch?v=Jh9Gn58r9Fw](https://www.youtube.com/watch?v=Jh9Gn58r9Fw)
     - [https://www.youtube.com/watch?v=9PYsVkPtcXk](https://www.youtube.com/watch?v=9PYsVkPtcXk&t=509s)
+    
 
 ## Index Fund
 
