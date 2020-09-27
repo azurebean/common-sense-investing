@@ -23,7 +23,7 @@ A collection of videos from [Ben Felix's Youtube channel](https://www.youtube.co
 - Does active management protect your downside? - [https://www.youtube.com/watch?v=KmXOvj_kRLA](https://www.youtube.com/watch?v=KmXOvj_kRLA)
 - Why is it so hard to beat the market - [https://www.youtube.com/watch?v=yhldVcWhhc0](https://www.youtube.com/watch?v=yhldVcWhhc0)
 - Why your advisor isn't recommending index fund - [https://www.youtube.com/watch?v=FlpwTJJEasA](https://www.youtube.com/watch?v=FlpwTJJEasA)
-
+- One-Decision Asset Allocation ETFs: https://www.youtube.com/watch?v=rSn2CT6lDlA
 ## House investment
 
 - Housing the best investment in history - [https://www.youtube.com/watch?v=7rvY2rIxdsA](https://www.youtube.com/watch?v=7rvY2rIxdsA)
